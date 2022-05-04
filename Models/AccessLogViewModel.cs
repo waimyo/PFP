@@ -21,7 +21,7 @@ namespace NY.Framework.Web.Models
 
         public string ip_address { get; set; }
 
-        // public string fromdate { get; set; }
+        public string fromdate { get; set; }
         public string todate { get; set; }
     }
 }
